@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zanting Ye (叶赞挺)
-- 👀 I’m interested in Deep learning, and Medical Image Analysis.
+- 👀 I’m interested in Deep learning and Medical Image Analysis.
 - 🌱  I am a first-year PhD student majoring in Biomedical engineering at Southern Medical University.
 
  ### 📢 News
