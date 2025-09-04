@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Zanting Ye (叶赞挺)
-- 👀 I’m interested in Deep learning and Medical Image Analysis.
-- 🌱  I am a first-year PhD student majoring in Biomedical engineering at Southern Medical University.
+- 👀 I’m interested in Medical Image Analysis， PET Foundation Model, Agents.
+- 🌱  Second-year Ph.D. student in Biomedical Engineering at Southern Medical University, supervised by Prof. Lijun Lu.
+- 🌱  The Chinese University of Hong Kong, supervised by Prof. Yixuan Yuan (Visiting Student)
+- 🌱  Westlake University, supervised by Prof. Yefeng Zheng (Visiting Student)
 
  ### 📢 News
  - **2025-09**: 🎉 Our paper Multicontrast MR-Guided Diffusion Model for Ultra-Low-Dose Brain PET Denoising in Temporal Lobe Epilepsy has been accepted by JBHI. 
