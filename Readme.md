@@ -3,7 +3,7 @@
 - 🌱  I am a first-year PhD student majoring in Biomedical engineering at Southern Medical University.
 
  ### 📢 News
- - **2025-06**: 🎉 Our paper Multicontrast MR-Guided Diffusion Model for Ultra-Low-Dose Brain PET Denoising in Temporal Lobe Epilepsy has been accepted by JBHI. 
+ - **2025-09**: 🎉 Our paper Multicontrast MR-Guided Diffusion Model for Ultra-Low-Dose Brain PET Denoising in Temporal Lobe Epilepsy has been accepted by JBHI. 
 - **2025-06**: 🎉 Our paper FSDA-DG: Improving Cross-Domain Generalizability of Medical Image Segmentation with Few Source Domain Annotations has been accepted by Medical Image Analysis. 
 - **2025-06**: 🎉 Our paper Self is the Best Learner: CT-free Ultra-Low-Dose PET Organ Segmentation via Collaborating Denoising and Segmentation Learning has been accepted by MICCAI2025.
 - **2025-06**: 🎉 My collaborative papers MDAA-Diff: CT-Guided Multi-Dose Adaptive Attention Diffusion Model for PET Denoising, PDF-Net: Prototype-Aware Dynamic Fusion Network for Nasopharyngeal Carcinoma T-staging Classification with Epstein-Barr Virus DNA  have been accepted by MICCAI2025. 
