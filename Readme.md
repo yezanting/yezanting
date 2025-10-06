@@ -5,6 +5,7 @@
 - 🌱  Westlake University, supervised by Prof. Yefeng Zheng (Visiting Student)
 
  ### 📢 News
+  - **2025-10**: 🎉 Our paper AI-Quantified ¹¹C-MET PET/CT Bone Marrow Metabolic Activity for Prognostic Assessment in Newly Diagnosed Multiple Myeloma has been accepted by European Journal of Nuclear Medicine and Molecular Imaging. 
  - **2025-09**: 🎉 Our paper Multicontrast MR-Guided Diffusion Model for Ultra-Low-Dose Brain PET Denoising in Temporal Lobe Epilepsy has been accepted by JBHI. 
 - **2025-06**: 🎉 Our paper FSDA-DG: Improving Cross-Domain Generalizability of Medical Image Segmentation with Few Source Domain Annotations has been accepted by Medical Image Analysis. 
 - **2025-06**: 🎉 Our paper Self is the Best Learner: CT-free Ultra-Low-Dose PET Organ Segmentation via Collaborating Denoising and Segmentation Learning has been accepted by MICCAI2025.
